@@ -8,4 +8,4 @@ Galaxy Zoo has had several incarnations. The first two: [Galaxy Zoo 1](http://zo
 
 ## The Milky Way Project
 
-The [Milky Way Project ](http://www.milkywayproject.org) also has public data online  - as part of the open astrophysics literature - at [http://www.milkywayproject.org/#/data](http://www.milkywayproject.org/#/data), listed as DR1. A set of Dr2 results, which are cleaner and simpler to understand is include din this repo as **mwp-dr1-oct-2014.csv**.
+The [Milky Way Project ](http://www.milkywayproject.org) also has public data online  - as part of the open astrophysics literature - at [http://www.milkywayproject.org/#/data](http://www.milkywayproject.org/#/data), listed as DR1. A set of Dr2 results, which are cleaner and simpler to understand is include din this repo as **mwp-dr1-oct-2014.csv** this data should be referenced if used publicly, please contact [rob@zooniverse.org](mailto:rob@zooniverse.org).
