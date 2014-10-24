@@ -3,6 +3,10 @@
 
 We've been developing citizen science websites since 2009 and have grown a community of over one million volunteers. Some have casually participated just once or twice, others have wholly committed as part of a new generation of online citizen scientists.
 
+![](https://raw.githubusercontent.com/zooniverse/MozFest2014/master/Images/zoo-home-1.png = 700x)
+
+![](https://raw.githubusercontent.com/zooniverse/MozFest2014/master/Images/zoo-home-2.png = 700x)
+
 The Zooniverse began with Galaxy Zoo and rapidly expanded. We now have projects ranging from astronomy to zoology and the family grows all the time. We are currently working on a new platform, based on our existing infrastructure, that will make creating a Zooniverse-style citizen science project as easy as setting up a blog - or making a simple app.
 
 We're excited to come to MozFest to be part of the growing Open Science community. MozFest is an opportunity for us to connect with the other makers and thinkers in this space and to work on new and interesting ideas together. We have a sprint session  (Saturday, 10-1) and we'd like to try and quickly overview where we've got to and ways in which anyone can play with our data and help us build new things.
@@ -56,13 +60,14 @@ Each project should aim to conclude with the following at least:
 
 Let's not walk away and never talk again - let's leave ready to make these ideas happen if we want!
 
-## [4] Some Useful Links
+## Team and Contacts
 
-  1. zooniverse.org
-  2. GitHub repos 
-  3. data.galaxyzoo.org
-  4. milkywayproject.org/#/data
-  5. Galaxy Xoo navigator. 
-  6. Zoo Teach
-  7. Milkman and Crossfilter
-  8. Contact details: email, Twitter, GitHub
+Check out zooniverse.org to try out any of our sites - and zooniverse.org/team to see who works with us.
+
+At MozFest 2014 are
+
+ - Robert Simpson [[@orbitingfrog](http://twitter.com/orbitingfrog), [GitHub](https://github.com/ttfnrob), [Email](mailto:rob@zooniverse.org)]
+ - Campbell Allen [[GitHub](https://github.com/camallen), [Email](mailto:cam@zooniverse.org)]
+ - Brian Carstensen [[GitHub](https://github.com/brianc), [Email](mailto:brian@zooniverse.org)]
+ - Laura Whyte [[@whytewithawhy](http://twitter.com/whytewithawhy), [GitHub](https://github.com/whytewithawhy), [Email](mailto:laura@zooniverse.org)]
+ - Grant Miller [[@mrniaboc](http://twitter.com/mrniaboc), [GitHub](https://github.com/mrniaboc), [Email](mailto:grant@zooniverse.org)]
