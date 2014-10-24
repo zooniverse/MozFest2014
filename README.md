@@ -1,27 +1,23 @@
 # Hacking the Zooniverse
 ### [0] Zooniverse at MozFest 2014
 
-We've been developing citizen science websites since 2009 and have grown a community of over one million volunteers. Some have casually participated just once or twice, others have wholly committed as part of a new generation of online citizen scientists.
+We've been developing citizen science websites since 2009 and have grown a community of over one million volunteers. We have projects ranging from astronomy to zoology and the family grows all the time. We are currently working on a new platform, based on our existing infrastructure, that will make creating a Zooniverse-style citizen science project as easy as setting up a blog - or making a simple app.
 
-The Zooniverse began with Galaxy Zoo and rapidly expanded. We now have projects ranging from astronomy to zoology and the family grows all the time. We are currently working on a new platform, based on our existing infrastructure, that will make creating a Zooniverse-style citizen science project as easy as setting up a blog - or making a simple app.
-
-We're excited to come to MozFest to be part of the growing Open Science community. MozFest is an opportunity for us to connect with the other makers and thinkers in this space and to work on new and interesting ideas together. We have a sprint session  (Saturday, 10-1) and we'd like to try and quickly overview where we've got to and ways in which anyone can play with our data and help us build new things.
-
-We have several of the Zooniverse crew at MozFest, with a range of specialities and skills. 
-
+MozFest is an opportunity for us to connect with the other makers and thinkers in this space and to work on new and interesting ideas together. We have a sprint session  (Saturday, 11-1).
 ### [1] Some History
 
 #### Short history.
 
-[Galaxy Zoo](http://zoo1.galaxyzoo.org) was created out of genuine need - not for fun, not for outreach. A game-changer for galaxy morphology. The Kevin-week remains a useful unit. The domain model for Zooniverse. Two other projects that are especially relevant to today (but do check out others on [zooniverse.org](zooniverse.org)) are the [Milky Way Project](http://www.milkywayproject.org) and [Penguin Watch](http://www.penguinwatch.org). Both have an exploratory, data-delivery 'Milkman' interface but very different topics.
+[Galaxy Zoo](http://zoo1.galaxyzoo.org) was created out of genuine need - not for fun, not for outreach - and it has been a game-changer for galaxy morphology. Two other projects that are especially relevant to MozFest (but do check out others on [zooniverse.org](zooniverse.org)) are the [Milky Way Project](http://www.milkywayproject.org) and [Penguin Watch](http://www.penguinwatch.org).
 
 #### Short future.
-We're building a system that shows our vision of that for Zooniverse. The code base is called Panoptes. Community goes back to the heart of things and we will enable people to remix and rebuild citizen science, without our input or even much technical know-how. We want people to talk about the science and the data, not the interface.
+We're building a system that shows our vision of that for Zooniverse. The code base is called Panoptes. It will enable people to remix and rebuild citizen science projects like the ones we build today, without our input or even much technical know-how.
 
 #### Open Source, Open Data, Open Science.
-Open Source is easy (barring documentation, which is hard). Open Daya is harder but easy in the short term, the only real chalke he is cultural change. Open Science is tricky because of tenure, H-indexes, and academic politics. Citizen scientists don't care about those things though.
+Open Source is easy (barring documentation, which is hard). Open Data is harder but easy in the short term, and the real challenge is cultural change. Open Science is tricky because of tenure, H-indexes, and academic politics. Citizen scientists don't care about those things though :)
 
-Today is about hacking some new ideas and evolving some existing ones. We have some strands we want to work within this morning: research, communication and education. We have ideas of hacks that can be done in those strands but do t feel limited to those.
+#### Today...
+...is about hacking some new ideas and evolving some existing ones. We have some strands we want to work within this morning: research, communication and education. We have ideas of hacks that can be done in those strands but do t feel limited to those.
 
 These projects don't end at 1pm. We want to stay in touch with the things that come out of today and try to support them.
 
